@@ -35,11 +35,11 @@ def trip_cost(city, days, spending_money):
     print("Flight cost: $", flight)
     print("Spending money: $", spending_money)
     
-    #value edits
+    #value edits here
     
-    city_choice = "Seattle"
-    days = 5
-    spending_money = 800
+    city_choice =
+    days = 
+    spending_money =
     
     #----------
     
