@@ -38,7 +38,7 @@ car_type = input("What type of car would you like (Economy, SUV, Other)? ")
 # Calculate the total
 total = trip_cost(city_choice, nights, days, car_type)
 
-# Show result
+# Results
 print("\n--- Vacation Summary ---")
 print(f"Destination: {city_choice}")
 print(f"Hotel cost: ${hotel_cost(nights)}")
