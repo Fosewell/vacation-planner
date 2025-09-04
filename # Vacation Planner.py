@@ -35,7 +35,7 @@ nights = int(input("How many nights will you stay? "))
 days = int(input("How many days will you rent a car? "))
 car_type = input("What type of car would you like (Economy, SUV, Other)? ")
 
-# Calculate total
+# Calculate the total
 total = trip_cost(city_choice, nights, days, car_type)
 
 # Show result
